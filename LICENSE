@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+# QFLS
+Software tools for evaluating quasi-Fermi level splitting based on hyperspectral imaging techniques.
+
+## Academic Use  
+If you use this code in your research, please:  
+- Cite our paper: DOI: 10.1126/science.abn8910
+- OR contact mingcong.wang@gbu.edu.cn for potential collaboration.
