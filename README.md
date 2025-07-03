@@ -3,5 +3,5 @@ Software tools for evaluating quasi-Fermi level splitting based on hyperspectral
 
 ## Academic Use  
 If you use this code in your research, please:  
-- Cite our paper: https://doi.org/10.1002/solr.202100029
-- OR contact us for potential collaboration.
+- Cite our paper: DOI: 10.1126/science.abn8910
+- OR contact mingcong.wang@gbu.edu.cn for potential collaboration.
